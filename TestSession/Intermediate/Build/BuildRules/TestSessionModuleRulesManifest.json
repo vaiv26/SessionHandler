@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"/Volumes/ADATA HD710 1/UnrealEngine/UnrealProjects/TestPlugin/SessionHandler/TestSession/Source/TestSession/TestSession.Build.cs",
+		"/Volumes/ADATA HD710 1/UnrealEngine/UnrealProjects/TestPlugin/SessionHandler/TestSession/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/AdvancedSessions.Build.cs",
+		"/Volumes/ADATA HD710 1/UnrealEngine/UnrealProjects/TestPlugin/SessionHandler/TestSession/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/AdvancedSteamSessions.Build.cs",
+		"/Volumes/ADATA HD710 1/UnrealEngine/UnrealProjects/TestPlugin/SessionHandler/TestSession/Source/TestSession.Target.cs",
+		"/Volumes/ADATA HD710 1/UnrealEngine/UnrealProjects/TestPlugin/SessionHandler/TestSession/Source/TestSessionEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestSession",
+			"Path": "/Volumes/ADATA HD710 1/UnrealEngine/UnrealProjects/TestPlugin/SessionHandler/TestSession/Source/TestSession.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestSessionEditor",
+			"Path": "/Volumes/ADATA HD710 1/UnrealEngine/UnrealProjects/TestPlugin/SessionHandler/TestSession/Source/TestSessionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
